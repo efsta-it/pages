@@ -1,0 +1,251 @@
+﻿@charset "utf-8";
+
+/* -----------------------------------------------------------
+CSS Information
+
+ File name:      style.css
+ Author:         YourName (admin)
+ Style Info:     デフォルトとプリント指定以外全て
+----------------------------------------------------------- */
+
+/*----------------------------------------------------
+	汎用class
+----------------------------------------------------*/
+
+.imgR {
+	float: right;
+	margin: 0 0 10px 10px;
+}
+
+.imgL {
+	float: left;
+	margin: 0 10px 10px 0;
+}
+
+.btn {
+	text-align: center;
+}
+
+/*clearFix*/
+#contents:after {
+	content: ".";
+	display: block;
+	visibility: hidden;
+	height: 0.1px;
+	font-size: 0.1em;
+	line-height: 0;
+	clear: both;
+}
+
+pre {
+	font-size: small;
+	margin-bottom: 25px;
+	padding: 10px;
+	border: 3px double #999;
+	line-height: 1.2;
+}
+
+/*----------------------------------------------------
+	.navSkip (Navigation Skip)
+----------------------------------------------------*/
+
+span.navSkip {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+
+/*----------------------------------------------------
+	#page
+----------------------------------------------------*/
+
+#page {
+	width: 820px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+h1 {
+	padding: 10px;
+	font-size: 160%;
+}
+
+
+/*----------------------------------------------------
+	.header
+----------------------------------------------------*/
+.header {
+	position: relative;
+	width: 820px;
+/*	height: 145px;*/
+	height: 115px;
+/*	margin-bottom: 50px;*/
+	margin-bottom: 0px;
+	background: #FFF url(../image/globalmenu/bg.gif) repeat-x 0px 90px;
+	font-size: 1px;
+}
+
+.header img {
+	vertical-align: top;
+	font-size: small;
+}
+
+.header h1 {
+	float: left;
+	width: 173px;
+	margin-bottom: 20px;
+	padding-top: 27px;
+}
+
+.header #helpNav {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin-bottom: 15px;
+	padding-top: 10px;
+	font-size: x-small;
+}
+
+.header #helpNav li {
+	display: inline;
+	margin-left: 10px;
+}
+
+.header #helpNav li a {
+	color: #557184;
+}
+
+.header #helpNav li a:hover {
+	color: #7A0000;
+	text-decoration: none;
+}
+
+.header #helpNav li + li {
+	padding-left: 10px;
+	border-left: 1px solid #999;
+}
+
+.header address {
+	float: right;
+	margin-bottom: 16px;
+	padding: 45px 0 0 0;
+}
+
+/*----------------------------------------------------
+	#gNav
+----------------------------------------------------*/
+#gNav {
+	float: left;
+	width: 800px;
+	padding-left: 20px;
+}
+
+#gNav li {
+	float: left;
+	margin-right: 1px;
+}
+
+#header #gNav {
+	background: url(../image/globalmenu/menu.gif) no-repeat left bottom;
+}
+
+#header #gNav a {
+	display: block;
+	width: 129px;
+	height: 55px;
+}
+
+#header #gNav a:hover {
+	background: none;
+}
+
+.productBody #header #gNav li.homeNav a img,
+#header #gNav li a:hover img {
+	width: 0;
+	height: 0;
+}
+
+/*----------------------------------------------------
+	#silverlightControlHost johkubo
+----------------------------------------------------*/
+#silverlightControlHost {
+	position: relative;
+    height: 500px;
+    width: 780px;
+	background:#F6FAFB;
+}
+
+/*----------------------------------------------------
+	#updateInfo johkubo
+----------------------------------------------------*/
+#updateInfo{
+	background:transparent;
+	position: absolute;
+	width:600px;
+	height:200px;
+	top:330px;	
+	left:10px;	
+}
+#updateInfo a:link{
+	color:white;
+}
+#updateInfo a:visited{
+	color:silver;
+}
+
+/*----------------------------------------------------
+	#subtitle johkubo
+----------------------------------------------------*/
+#subtitle{
+	font-size:50px;
+	font-weight:bold; 	
+}
+
+/*----------------------------------------------------
+	#Copyrightjohkubo
+----------------------------------------------------*/
+#copyright{
+	position: relative;	
+}
+
+
+
+/*----------------------------------------------------
+	#contents
+----------------------------------------------------*/
+
+#contents {
+	width: 800px;
+	padding: 10px;
+/*	background: #EBF4F6;*/
+	background:#F6FAFB;
+}
+
+#contents .pageTop {
+	clear: both;
+	text-align: right;
+}
+
+
+/*----------------------------------------------------
+	#main
+----------------------------------------------------*/
+
+#main {
+}
+
+
+#main ul {
+	margin-bottom: 25px;
+}
+
+
+
+/*----------------------------------------------------
+	#footer
+----------------------------------------------------*/
+
+#footer {
+	clear: both;
+}
