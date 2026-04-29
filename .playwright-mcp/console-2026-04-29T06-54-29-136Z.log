@@ -1,0 +1,7 @@
+[    1086ms] [WARNING] [GPT] PubAdsService.setTargeting is deprecated, use googletag.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://browser.sentry-cdn.com/9.47.1/bundle.tracing.debug.min.js:1
+[    1144ms] [ERROR] Attestation check for Protected Audience on https://htlb.casalemedia.com failed. @ https://efsta.connpass.com/event/:0
+[    1144ms] [ERROR] Attestation check for Protected Audience on https://hbopenbid.pubmatic.com failed. @ https://efsta.connpass.com/event/:0
+[    1144ms] [ERROR] Attestation check for Protected Audience on https://grid-bidder.criteo.com failed. @ https://efsta.connpass.com/event/:0
+[    1231ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://d.socdm.com/adgen/prebid?id=170901&posall=SSPLOC&sdktype=0:0
+[    1255ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://d.socdm.com/adgen/prebid?id=170895&posall=SSPLOC&sdktype=0:0

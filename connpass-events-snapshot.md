@@ -1,0 +1,356 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - heading "connpass - エンジニアをつなぐIT勉強会支援プラットフォーム" [level=1] [ref=e5]:
+        - link "connpass - エンジニアをつなぐIT勉強会支援プラットフォーム" [ref=e6] [cursor=pointer]:
+          - /url: https://connpass.com/
+          - img "connpass - エンジニアをつなぐIT勉強会支援プラットフォーム" [ref=e7]
+      - link "ログイン・新規登録" [ref=e9] [cursor=pointer]:
+        - /url: https://connpass.com/login/?next=https%3A//connpass.com/series/2522/event/
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - link "ITコミュニティ「エフスタ!!」" [ref=e13] [cursor=pointer]:
+          - /url: https://efsta.connpass.com/
+        - generic [ref=e15]:
+          - heading "ITコミュニティ「エフスタ!!」" [level=2] [ref=e16]:
+            - link "ITコミュニティ「エフスタ!!」" [ref=e17] [cursor=pointer]:
+              - /url: https://efsta.connpass.com/
+          - paragraph [ref=e18]: 福島からITのおもしろさを発信します！
+        - generic [ref=e19]:
+          - list [ref=e20]:
+            - listitem [ref=e21]:
+              - link "イベント" [ref=e22] [cursor=pointer]:
+                - /url: https://efsta.connpass.com/event/
+            - listitem [ref=e23]:
+              - link "メンバー" [ref=e24] [cursor=pointer]:
+                - /url: https://efsta.connpass.com/participation/
+            - listitem [ref=e25]:
+              - link "資料" [ref=e26] [cursor=pointer]:
+                - /url: https://efsta.connpass.com/presentation/
+          - generic [ref=e27]:
+            - generic [ref=e28]:
+              - iframe [ref=e30]:
+                - generic [ref=f2e2]:
+                  - link "このエントリーをはてなブックマークに追加" [ref=f2e3] [cursor=pointer]:
+                    - /url: https://b.hatena.ne.jp/entry/s/efsta.connpass.com/#bbutton
+                  - link "0" [ref=f2e5] [cursor=pointer]:
+                    - /url: https://b.hatena.ne.jp/entry/s/efsta.connpass.com/#bbutton
+              - iframe [ref=e232]:
+                - link "シェアする" [ref=f7e6] [cursor=pointer]:
+                  - /url: /sharer/sharer.php?kid_directed_site=0&sdk=joey&u=https%3A%2F%2Fefsta.connpass.com%2F&display=popup&ref=plugin&src=share_button
+                  - button "シェアする" [ref=f7e8]:
+                    - generic [ref=f7e10]: シェアする
+              - iframe [ref=e234]:
+                - link "ポスト" [ref=f8e4] [cursor=pointer]:
+                  - /url: https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fefsta.connpass.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&related=connpass_jp&text=IT%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%80%8C%E3%82%A8%E3%83%95%E3%82%B9%E3%82%BF!!%E3%80%8D&url=https%3A%2F%2Fefsta.connpass.com%2F
+                  - generic [ref=f8e6]: ポスト
+            - button "メンバーになる" [ref=e34] [cursor=pointer]
+      - generic [ref=e36]:
+        - heading "イベント（40件）" [level=3] [ref=e37]
+        - generic [ref=e38]:
+          - generic [ref=e39]:
+            - link "エフスタ!! &東北情報セキュリティ勉強会（2025/10）" [ref=e41] [cursor=pointer]:
+              - /url: https://efsta.connpass.com/event/369064/
+              - img "エフスタ!! &東北情報セキュリティ勉強会（2025/10）" [ref=e42]
+            - generic [ref=e43]:
+              - paragraph [ref=e44]:
+                - text: 2025/10/25（土） 13:30〜
+                - generic:
+                  - generic "2025-10-25T04:30:00Z"
+                - generic:
+                  - generic "2025-10-25T08:00:00Z"
+              - paragraph [ref=e45]:
+                - link "エフスタ!! &東北情報セキュリティ勉強会（2025/10）" [ref=e46] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/369064/
+              - paragraph [ref=e47]:
+                - generic [ref=e48]:
+                  - link "Takeshi Haga Takeshi Haga" [ref=e49] [cursor=pointer]:
+                    - /url: https://connpass.com/user/boxer4/
+                    - img "Takeshi Haga" [ref=e50]
+                    - text: Takeshi Haga
+                  - text: 他
+              - paragraph [ref=e51]:
+                - generic [ref=e52]: 福島県郡山市方八町２丁目４−１５
+              - paragraph [ref=e53]:
+                - link "23/60人" [ref=e54] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/369064/participation/
+                  - generic [ref=e55]: 23/60
+                  - text: 人
+          - generic [ref=e56]:
+            - link "GitHub Copilot と書く未来のコード：プログラミングを 10 倍速に" [ref=e58] [cursor=pointer]:
+              - /url: https://efsta.connpass.com/event/359676/
+              - img "GitHub Copilot と書く未来のコード：プログラミングを 10 倍速に" [ref=e59]
+            - generic [ref=e60]:
+              - paragraph [ref=e61]:
+                - text: 2025/07/05（土） 13:30〜
+                - generic:
+                  - generic "2025-07-05T04:30:00Z"
+                - generic:
+                  - generic "2025-07-05T09:00:00Z"
+              - paragraph [ref=e62]:
+                - link "GitHub Copilot と書く未来のコード：プログラミングを 10 倍速に" [ref=e63] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/359676/
+              - paragraph [ref=e64]:
+                - generic [ref=e65]:
+                  - link "ookubo_jin ookubo_jin" [ref=e66] [cursor=pointer]:
+                    - /url: https://connpass.com/user/ookubo_jin/
+                    - img "ookubo_jin" [ref=e67]
+                    - text: ookubo_jin
+                  - text: 他
+              - paragraph [ref=e68]:
+                - generic [ref=e69]: 福島県郡山市駅前二丁目11-1 ビッグアイ7階
+              - paragraph [ref=e70]:
+                - link "32/40人" [ref=e71] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/359676/participation/
+                  - generic [ref=e72]: 32/40
+                  - text: 人
+          - generic [ref=e73]:
+            - link "エフスタ!! 勉強会「プロンプト祭り（生成AI）」" [ref=e75] [cursor=pointer]:
+              - /url: https://efsta.connpass.com/event/304541/
+              - img "エフスタ!! 勉強会「プロンプト祭り（生成AI）」" [ref=e76]
+            - generic [ref=e77]:
+              - paragraph [ref=e78]:
+                - text: 2024/02/23（金） 13:30〜
+                - generic:
+                  - generic "2024-02-23T04:30:00Z"
+                - generic:
+                  - generic "2024-02-23T09:00:00Z"
+              - paragraph [ref=e79]:
+                - link "エフスタ!! 勉強会「プロンプト祭り（生成AI）」" [ref=e80] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/304541/
+              - paragraph [ref=e81]:
+                - generic [ref=e82]:
+                  - link "Takeshi Haga Takeshi Haga" [ref=e83] [cursor=pointer]:
+                    - /url: https://connpass.com/user/boxer4/
+                    - img "Takeshi Haga" [ref=e84]
+                    - text: Takeshi Haga
+                  - text: 他
+              - paragraph [ref=e85]:
+                - generic [ref=e86]: 福島県郡山市駅前二丁目11-1 ビッグアイ7階
+              - paragraph [ref=e87]:
+                - link "34/80人" [ref=e88] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/304541/participation/
+                  - generic [ref=e89]: 34/80
+                  - text: 人
+          - generic [ref=e90]:
+            - link "Connect 2023 in Koriyama, with UDC（ハッカソン）" [ref=e92] [cursor=pointer]:
+              - /url: https://efsta.connpass.com/event/298393/
+              - img "Connect 2023 in Koriyama, with UDC（ハッカソン）" [ref=e93]
+            - generic [ref=e94]:
+              - paragraph [ref=e95]:
+                - text: 2023/11/25（土） 11:00〜
+                - generic:
+                  - generic "2023-11-25T02:00:00Z"
+                - generic:
+                  - generic "2023-11-26T09:30:00Z"
+              - paragraph [ref=e96]:
+                - link "Connect 2023 in Koriyama, with UDC（ハッカソン）" [ref=e97] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/298393/
+              - paragraph [ref=e98]:
+                - generic [ref=e99]:
+                  - link "Shinya FUJITA Shinya FUJITA" [ref=e100] [cursor=pointer]:
+                    - /url: https://connpass.com/user/shin-f/
+                    - img "Shinya FUJITA" [ref=e101]
+                    - text: Shinya FUJITA
+                  - text: 他
+              - paragraph [ref=e102]:
+                - generic [ref=e103]: 福島県郡山市駅前二丁目11-1 ビッグアイ7階
+          - generic [ref=e104]:
+            - link "エフスタ!! 特別企画「僕たち私たちの12年とこれから」" [ref=e106] [cursor=pointer]:
+              - /url: https://efsta.connpass.com/event/275898/
+              - img "エフスタ!! 特別企画「僕たち私たちの12年とこれから」" [ref=e107]
+            - generic [ref=e108]:
+              - paragraph [ref=e109]:
+                - text: 2023/03/11（土） 13:30〜
+                - generic:
+                  - generic "2023-03-11T04:30:00Z"
+                - generic:
+                  - generic "2023-03-11T09:00:00Z"
+              - paragraph [ref=e110]:
+                - link "エフスタ!! 特別企画「僕たち私たちの12年とこれから」" [ref=e111] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/275898/
+              - paragraph [ref=e112]:
+                - generic [ref=e113]:
+                  - link "Takeshi Haga Takeshi Haga" [ref=e114] [cursor=pointer]:
+                    - /url: https://connpass.com/user/boxer4/
+                    - img "Takeshi Haga" [ref=e115]
+                    - text: Takeshi Haga
+                  - text: 他
+              - paragraph [ref=e116]:
+                - generic [ref=e117]: 福島県郡山市駅前二丁目11-1 ビッグアイ7階
+              - paragraph [ref=e118]:
+                - link "50人" [ref=e119] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/275898/participation/
+                  - generic [ref=e120]: "50"
+                  - text: 人
+          - generic [ref=e121]:
+            - link "エフスタ!!＆いわき情報技術研究会 「福島LT大会2022」" [ref=e123] [cursor=pointer]:
+              - /url: https://efsta.connpass.com/event/268797/
+              - img "エフスタ!!＆いわき情報技術研究会 「福島LT大会2022」" [ref=e124]
+            - generic [ref=e125]:
+              - paragraph [ref=e126]:
+                - text: 2022/12/17（土） 13:30〜
+                - generic:
+                  - generic "2022-12-17T04:30:00Z"
+                - generic:
+                  - generic "2022-12-17T08:00:00Z"
+              - paragraph [ref=e127]:
+                - link "エフスタ!!＆いわき情報技術研究会 「福島LT大会2022」" [ref=e128] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/268797/
+              - paragraph [ref=e129]:
+                - generic [ref=e130]:
+                  - link "Takeshi Haga Takeshi Haga" [ref=e131] [cursor=pointer]:
+                    - /url: https://connpass.com/user/boxer4/
+                    - img "Takeshi Haga" [ref=e132]
+                    - text: Takeshi Haga
+                  - text: 他
+              - paragraph [ref=e133]:
+                - generic [ref=e134]: 〒963-8005 福島県郡山市清水台１丁目３−８
+              - paragraph [ref=e135]:
+                - link "5/70人" [ref=e136] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/268797/participation/
+                  - generic [ref=e137]: 5/70
+                  - text: 人
+          - generic [ref=e138]:
+            - link "エフスタ!!AWSエンジニア失敗共有会議－失敗は次の挑戦へのエネルギー" [ref=e140] [cursor=pointer]:
+              - /url: https://efsta.connpass.com/event/228138/
+              - img "エフスタ!!AWSエンジニア失敗共有会議－失敗は次の挑戦へのエネルギー" [ref=e141]
+            - generic [ref=e142]:
+              - paragraph [ref=e143]:
+                - text: 2021/11/27（土） 13:30〜
+                - generic:
+                  - generic "2021-11-27T04:30:00Z"
+                - generic:
+                  - generic "2021-11-27T06:55:00Z"
+              - paragraph [ref=e144]:
+                - link "エフスタ!!AWSエンジニア失敗共有会議－失敗は次の挑戦へのエネルギー" [ref=e145] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/228138/
+              - paragraph [ref=e146]:
+                - generic [ref=e147]:
+                  - link "Takeshi Haga Takeshi Haga" [ref=e148] [cursor=pointer]:
+                    - /url: https://connpass.com/user/boxer4/
+                    - img "Takeshi Haga" [ref=e149]
+                    - text: Takeshi Haga
+                  - text: 他
+              - paragraph [ref=e150]:
+                - generic [ref=e151]: オンライン
+              - paragraph [ref=e152]:
+                - link "23/60人" [ref=e153] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/228138/participation/
+                  - generic [ref=e154]: 23/60
+                  - text: 人
+          - generic [ref=e155]:
+            - link "エフスタ!!クラウド方面最新動向勉強会" [ref=e157] [cursor=pointer]:
+              - /url: https://efsta.connpass.com/event/225066/
+              - img "エフスタ!!クラウド方面最新動向勉強会" [ref=e158]
+            - generic [ref=e159]:
+              - paragraph [ref=e160]:
+                - text: 2021/10/16（土） 13:30〜
+                - generic:
+                  - generic "2021-10-16T04:30:00Z"
+                - generic:
+                  - generic "2021-10-16T07:45:00Z"
+              - paragraph [ref=e161]:
+                - link "エフスタ!!クラウド方面最新動向勉強会" [ref=e162] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/225066/
+              - paragraph [ref=e163]:
+                - generic [ref=e164]:
+                  - link "Takeshi Haga Takeshi Haga" [ref=e165] [cursor=pointer]:
+                    - /url: https://connpass.com/user/boxer4/
+                    - img "Takeshi Haga" [ref=e166]
+                    - text: Takeshi Haga
+                  - text: 他
+              - paragraph [ref=e167]:
+                - generic [ref=e168]: オンライン
+              - paragraph [ref=e169]:
+                - link "13/52人" [ref=e170] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/225066/participation/
+                  - generic [ref=e171]: 13/52
+                  - text: 人
+          - generic [ref=e172]:
+            - link "エフスタLT日本大会2021" [ref=e174] [cursor=pointer]:
+              - /url: https://efsta.connpass.com/event/226830/
+              - img "エフスタLT日本大会2021" [ref=e175]
+            - generic [ref=e176]:
+              - paragraph [ref=e177]:
+                - text: 2021/10/09（土） 19:00〜
+                - generic:
+                  - generic "2021-10-09T10:00:00Z"
+                - generic:
+                  - generic "2021-10-09T11:30:00Z"
+              - paragraph [ref=e178]:
+                - link "エフスタLT日本大会2021" [ref=e179] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/226830/
+              - paragraph [ref=e180]:
+                - generic [ref=e181]:
+                  - link "Takeshi Haga Takeshi Haga" [ref=e182] [cursor=pointer]:
+                    - /url: https://connpass.com/user/boxer4/
+                    - img "Takeshi Haga" [ref=e183]
+                    - text: Takeshi Haga
+                  - text: 他
+              - paragraph [ref=e184]:
+                - generic [ref=e185]: オンライン
+              - paragraph [ref=e186]:
+                - link "21/60人" [ref=e187] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/226830/participation/
+                  - generic [ref=e188]: 21/60
+                  - text: 人
+          - generic [ref=e189]:
+            - link "エフスタ!!「ポストコロナ時代のエンジニア」" [ref=e191] [cursor=pointer]:
+              - /url: https://efsta.connpass.com/event/181771/
+              - img "エフスタ!!「ポストコロナ時代のエンジニア」" [ref=e192]
+            - generic [ref=e193]:
+              - paragraph [ref=e194]:
+                - text: 2020/07/29（水） 19:30〜
+                - generic:
+                  - generic "2020-07-29T10:30:00Z"
+                - generic:
+                  - generic "2020-07-29T13:00:00Z"
+              - paragraph [ref=e195]:
+                - link "エフスタ!!「ポストコロナ時代のエンジニア」" [ref=e196] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/181771/
+              - paragraph [ref=e197]:
+                - generic [ref=e198]:
+                  - link "Takeshi Haga Takeshi Haga" [ref=e199] [cursor=pointer]:
+                    - /url: https://connpass.com/user/boxer4/
+                    - img "Takeshi Haga" [ref=e200]
+                    - text: Takeshi Haga
+                  - text: 他
+              - paragraph [ref=e201]:
+                - generic [ref=e202]: オンライン
+              - paragraph [ref=e203]:
+                - link "35/50人" [ref=e204] [cursor=pointer]:
+                  - /url: https://efsta.connpass.com/event/181771/participation/
+                  - generic [ref=e205]: 35/50
+                  - text: 人
+          - list [ref=e207]:
+            - listitem [ref=e208]: "1"
+            - listitem [ref=e209]:
+              - link "2" [ref=e210] [cursor=pointer]:
+                - /url: "?page=2"
+            - listitem [ref=e211]:
+              - link "3" [ref=e212] [cursor=pointer]:
+                - /url: "?page=3"
+            - listitem [ref=e213]:
+              - link "4" [ref=e214] [cursor=pointer]:
+                - /url: "?page=4"
+            - listitem [ref=e215]:
+              - link "次へ>>" [ref=e216] [cursor=pointer]:
+                - /url: "?page=2"
+    - generic [ref=e218]:
+      - link "ITコミュニティ「エフスタ!!」" [ref=e220] [cursor=pointer]:
+        - /url: https://efsta.connpass.com/
+      - generic [ref=e221]:
+        - link "ご利用ガイド" [ref=e222] [cursor=pointer]:
+          - /url: https://help.connpass.com/
+        - link "利用規約" [ref=e223] [cursor=pointer]:
+          - /url: https://connpass.com/term/
+        - link "特定商取引法に基づく表示" [ref=e224] [cursor=pointer]:
+          - /url: https://connpass.com/law/
+        - link "プライバシーポリシー" [ref=e225] [cursor=pointer]:
+          - /url: https://connpass.com/privacy/
+        - link "connpassへのお問い合わせ" [ref=e226] [cursor=pointer]:
+          - /url: https://connpass.com/inquiry/
+      - link "powered by connpass" [ref=e228] [cursor=pointer]:
+        - /url: https://connpass.com/
+  - iframe
